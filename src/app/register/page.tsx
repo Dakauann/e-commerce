@@ -81,7 +81,6 @@ export default function LoginPage() {
 						title: 'Account created',
 						description:
 							'Your account has been created. Please login using the credentials you provided.',
-						status: 'success',
 						duration: 5000,
 					})
 				})
